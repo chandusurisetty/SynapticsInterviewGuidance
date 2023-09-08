@@ -9,6 +9,20 @@ Synaptics (Nasdaq: SYNA) is changing the way humans engage with connected device
 3. The Good thing about Synaptics is that they won't care about you marks. They only consider your talent and communication
 4. Be Open-mind always say the truth during interview. If you don't know the answer accept it instead of saying wrong
 5. Read about PDF's and all don't go deep in it because there are so many pages
-6. First of all so though the links i provides in "FirstLook.txt"
+6. In my 3 interviews The Interviewer tested my Common sence, Programming skills, My honesty and Network Knowledge
+7. Interviewer may ask you to write programming using online compailer ( https://pycom.onrender.com/ this is the online compiler that i created please have a look)
+8. Showcase your talent in case you have portfolio show them your projects (https://chandusurisetty.in/ this is mine have a look)
+
+# Referal Links
+## These are the links that i follow for Network Qestions
+1. https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/  for Types of area networks – LAN, MAN and WAN
+2. https://ecomputernotes.com/computernetworkingnotes/naming-and-addressing/ip-address  Types of IP's
+3. https://www.cloudflare.com/en-in/learning/network-layer/what-is-a-network-switch/   Network switches
+4. https://www.intel.com/content/www/us/en/support/articles/000005725/wireless/legacy-intel-wireless-products.html        *** Wireless config ***
+5. https://www.intel.com/content/www/us/en/support/articles/000005725/wireless/legacy-intel-wireless-products.html      *** 802.11 protocals ***
+6. https://www.securew2.com/blog/complete-guide-wi-fi-security         ***Wifi Security ***
+7. OSI Layers are important
+
+
 
 # All The Best

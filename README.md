@@ -8,7 +8,7 @@ Synaptics (Nasdaq: SYNA) is changing the way humans engage with connected device
 2. Learn atleast one programming language (Python is preferred) with projects on that language
 3. The Good thing about Synaptics is that they won't care about you marks. They only consider your talent and communication
 4. Be Open-mind always say the truth during interview. If you don't know the answer accept it instead of saying wrong
-5. Read above PDF's and all don't go deep in it because there are so many pages
+5. Read above PDF's and don't go deep in it because there are so many pages
 6. In my 3 interviews The Interviewer tested my Common sence, Programming skills, My honesty and Network Knowledge
 7. Interviewer may ask you to write programming using online compailer ( https://pycom.onrender.com/ this is the online compiler that i created please have a look)
 8. Showcase your talent in case you have portfolio show them your projects (https://chandusurisetty.in/ this is mine have a look)
